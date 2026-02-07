@@ -1,4 +1,4 @@
-# Cursor-Website-UI-Clone-HTML-CSS
+# Mintlify-website-UI-clone
 
 This repository contains a desktop-only UI clone of the Mintlify website created using pure HTML and CSS.
 
