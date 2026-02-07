@@ -63,5 +63,12 @@ The objective of this project was to closely recreate the layout, visual style, 
 ---
 
 ## Screenshots
-
-
+![screenshots](screenshots/ss1.png)
+![screenshots](screenshots/ss2.png)
+![screenshots](screenshots/ss3.png)
+![screenshots](screenshots/ss4.png)
+![screenshots](screenshots/ss5.png)
+![screenshots](screenshots/ss6.png)
+![screenshots](screenshots/ss7.png)
+![screenshots](screenshots/ss8.png)
+![screenshots](screenshots/ss9.png)
